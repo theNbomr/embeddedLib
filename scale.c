@@ -4,7 +4,7 @@
     "Well Tempered Linear Scales",  
     Computer Language, September, 1989.
     pp 49-65.
-
+    see <https://archive.org/details/sim_computer-language_1989_6_index/mode/2up?q=steppe>
 
     This collection of functions provides 4 methods for selecting the
     scale values used to plot an arbitrary data-set.  The four functions
